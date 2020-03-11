@@ -1,4 +1,4 @@
-//using object literal to create (Student)
+//using object literal to create object (Student)
 //and populating the student properties
 var Student = {
     firstName: "Rijan",

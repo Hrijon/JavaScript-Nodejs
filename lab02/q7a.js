@@ -7,4 +7,3 @@ var foo = function()
 
 setTimeout(foo, 5000);
 
-

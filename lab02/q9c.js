@@ -17,3 +17,5 @@ function Student(fn,sn,a,d) {
 //create new object
 var student =  new Student("Rijan","Chapagain", 19, "Bsc");
 student.displayStudent(); //print 
+
+
